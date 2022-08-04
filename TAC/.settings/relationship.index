@@ -5,6 +5,10 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_mup7YBO1Ee2s0_tcnJWknQ",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
     "id" : "DQTechnical",
     "version" : "Latest",
     "type" : "routine"
